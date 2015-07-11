@@ -1,2 +1,2 @@
 # ToDoApp
-<img scr="Licecap_demonstration.gif" alt="Description"/>
+<img src="Licecap_demonstration.gif" alt="Description" />
